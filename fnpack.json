@@ -28,7 +28,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 10086,
+      "service_port": "10086",
       "releases": {
         "1.10.34-lts-r8": {
           "changelog": "开源服务器运维管理面板，提供可视化的 Linux 服务器管理。",
@@ -67,7 +67,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5006,
+      "service_port": "5006",
       "releases": {
         "26.10.0": {
           "changelog": "本地优先的个人记账与预算管理工具",
@@ -106,7 +106,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3080,
+      "service_port": "3080",
       "releases": {
         "0.107.79": {
           "changelog": "AdGuardHome 是一个网络范围的广告和跟踪器拦截 DNS 服务器，支持 DNS-over-HTTPS、DNS-over-TLS。",
@@ -145,7 +145,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5115,
+      "service_port": "5115",
       "releases": {
         "1.0.5": {
           "changelog": "局域网文件互传工具（官方 fpk 直通版）：手机 / 电脑浏览器访问 NAS 地址即可上传、浏览与下载文件，零流量、不经中转服务器；保存目录在飞牛应用设置中授权，删除与路径修改仅限飞牛桌面内操作，远程设备只读防误删。",
@@ -184,7 +184,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5246,
+      "service_port": "5246",
       "releases": {
         "3.64.0": {
           "changelog": "网盘聚合工具，支持挂载阿里云盘、百度网盘等多种网络存储到本地。",
@@ -223,7 +223,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 7789,
+      "service_port": "7789",
       "releases": {
         "3.2.44": {
           "changelog": "动漫 RSS 自动追番、订阅、下载和刮削工具，支持自动识别季数集数和重命名。默认用户名admin，密码admin。",
@@ -262,7 +262,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8501,
+      "service_port": "8501",
       "releases": {
         "0.9.64-r4": {
           "changelog": "开源 Notion 替代品，支持自托管的协作文档平台。",
@@ -301,7 +301,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3552,
+      "service_port": "3552",
       "releases": {
         "2.15.1": {
           "changelog": "现代化的 Docker 管理界面，可视化管理容器、镜像、Compose 项目与存储卷",
@@ -340,7 +340,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 6800,
+      "service_port": "6800",
       "releases": {
         "2.8.6": {
           "changelog": "活跃维护的 aria2 分支下载引擎（RPC 服务，无内置网页）。支持 HTTP/FTP/BT/磁力/ED2K，JSON-RPC 端口 6800，可用 AriaNg / Motrix Next 等前端连接。",
@@ -379,7 +379,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 6185,
+      "service_port": "6185",
       "releases": {
         "4.29.0-beta.1": {
           "changelog": "多平台 LLM 聊天机器人框架，支持 Web 管理面板和插件扩展。",
@@ -418,7 +418,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 13378,
+      "service_port": "13378",
       "releases": {
         "2.37.1": {
           "changelog": "自托管的有声书和播客服务器，支持多用户管理、进度同步和丰富的元数据管理。",
@@ -457,7 +457,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 7892,
+      "service_port": "7892",
       "releases": {
         "3.3.6": {
           "changelog": "基于 RSS 的全自动追番下载整理工具，支持 Mikan 等数据源，自动下载并重命名为 Plex/Jellyfin 兼容格式。",
@@ -496,7 +496,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 6767,
+      "service_port": "6767",
       "releases": {
         "1.6.2": {
           "changelog": "字幕自动化管理工具，与 Sonarr/Radarr 集成自动下载匹配字幕",
@@ -535,7 +535,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 18090,
+      "service_port": "18090",
       "releases": {
         "0.21.0": {
           "changelog": "轻量级服务器监控工具，支持 Docker 容器资源监控",
@@ -574,7 +574,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8680,
+      "service_port": "8680",
       "releases": {
         "0.8.3": {
           "changelog": "多平台直播录制工具，支持 Bilibili、斗鱼、虎牙等平台的自动录制",
@@ -613,7 +613,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 1111,
+      "service_port": "1111",
       "releases": {
         "1.8.8": {
           "changelog": "自托管笔记与速记应用：支持 Markdown、双链、标签、全文搜索与 AI 整理，数据存在自己的 PostgreSQL 里；浏览器即用，移动端适配良好",
@@ -652,7 +652,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8083,
+      "service_port": "8083",
       "releases": {
         "0.6.27-r2": {
           "changelog": "Calibre 电子书库 Web 管理与在线阅读",
@@ -691,7 +691,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8090,
+      "service_port": "8090",
       "releases": {
         "0.4.34": {
           "changelog": "SSL/TLS证书自动化管理工具，支持ACME协议自动申请和续签证书。",
@@ -730,7 +730,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 19035,
+      "service_port": "19035",
       "releases": {
         "0.55.2-r7": {
           "changelog": "中文字幕自动下载工具，支持 Emby/Jellyfin/Plex",
@@ -769,7 +769,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5802,
+      "service_port": "5802",
       "releases": {
         "26.09.2": {
           "changelog": "Chromium 浏览器的 Docker 容器版本，通过网页即可远程访问，内置中文字体支持。",
@@ -808,7 +808,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3310,
+      "service_port": "3310",
       "releases": {
         "1.5.4-r3": {
           "changelog": "开源杀毒引擎，提供文件扫描和病毒检测服务。",
@@ -847,7 +847,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 0,
+      "service_port": "",
       "releases": {
         "1.3.0": {
           "changelog": "fnOS 原生 Clash/Mihomo 管理器（官方 fpk 直通）：从 fnOS 桌面直接管理 Mihomo 内核、代理节点、订阅配置、分流规则、连接与日志，支持 TUN 与系统代理。与商店内 mihomo / OpenSurge 定位互补，按场景选用",
@@ -886,7 +886,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 19798,
+      "service_port": "19798",
       "releases": {
         "1.1.2": {
           "changelog": "多网盘挂载与管理工具",
@@ -925,7 +925,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 14333,
+      "service_port": "14333",
       "releases": {
         "2026.10.0": {
           "changelog": "Cloudflare 内网穿透隧道，通过 Web 界面管理 Tunnel Token 配置",
@@ -964,7 +964,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5212,
+      "service_port": "5212",
       "releases": {
         "3.8.3-r4": {
           "changelog": "国产云盘系统，支持多种存储策略和离线下载。",
@@ -1003,7 +1003,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 11987,
+      "service_port": "11987",
       "releases": {
         "5.0.1": {
           "changelog": "Linux 风扇与散热设备监控控制面板",
@@ -1042,7 +1042,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8088,
+      "service_port": "8088",
       "releases": {
         "2.2.1": {
           "changelog": "基于 AgentScope 的个人 AI 助手工作站，支持多渠道聊天、本地大模型和定时任务。",
@@ -1081,7 +1081,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3923,
+      "service_port": "3923",
       "releases": {
         "1.20.25": {
           "changelog": "轻量级文件共享服务器，支持拖拽上传、WebDAV 和搜索。",
@@ -1120,7 +1120,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 9899,
+      "service_port": "9899",
       "releases": {
         "2.2.0": {
           "changelog": "AI 超级助手，支持微信/飞书/钉钉/QQ/Web 等多平台接入，基于大语言模型的智能对话。",
@@ -1159,7 +1159,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5701,
+      "service_port": "5701",
       "releases": {
         "3.3.5": {
           "changelog": "轻量现代的定时任务与脚本管理面板",
@@ -1198,7 +1198,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 9321,
+      "service_port": "9321",
       "releases": {
         "1.21.4": {
           "changelog": "弹幕 API 服务器：支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play 搜索/详情/弹幕接口规范，提供日志记录与 Web 管理界面",
@@ -1237,7 +1237,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9876,
+      "service_port": "9876",
       "releases": {
         "6.17.7": {
           "changelog": "DDNS-GO 是一个简单好用的 DDNS 工具，支持阿里云、腾讯云、Cloudflare 等多个 DNS 服务商。",
@@ -1276,7 +1276,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 4001,
+      "service_port": "4001",
       "releases": {
         "1.31.6": {
           "changelog": "轻量级 Markdown 文档站点服务",
@@ -1315,7 +1315,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8807,
+      "service_port": "8807",
       "releases": {
         "1.11.0": {
           "changelog": "轻量级 Docker 可视化管理面板，支持容器管理和镜像操作。",
@@ -1354,7 +1354,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8200,
+      "service_port": "8200",
       "releases": {
         "2.4.0.1_stable_2026-10-07": {
           "changelog": "加密备份工具，支持增量备份到云存储和本地。",
@@ -1393,7 +1393,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 11210,
+      "service_port": "11210",
       "releases": {
         "2.6.4-r6": {
           "changelog": "简单安全的去中心化异地组网方案，支持 Web 管理和子网代理",
@@ -1432,7 +1432,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8096,
+      "service_port": "8096",
       "releases": {
         "4.10.1.0": {
           "changelog": "EmbyServer是一款软件媒体系统，可让您控制媒体的管理和流式传输。可以通过多个应用程序将专用服务器中的媒体提供给最终用户设备。",
@@ -1471,7 +1471,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8510,
+      "service_port": "8510",
       "releases": {
         "latest-2026.10.09": {
           "changelog": "端到端加密照片备份和存储服务，Google Photos 的隐私替代方案。",
@@ -1510,7 +1510,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8580,
+      "service_port": "8580",
       "releases": {
         "2.0.1": {
           "changelog": "轻量级个人记账应用，支持多币种、多账户和预算管理",
@@ -1549,7 +1549,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3088,
+      "service_port": "3088",
       "releases": {
         "2.6.49": {
           "changelog": "非官方 Telegram Web 客户端，支持多账号、聊天、媒体预览和下载缓存",
@@ -1588,7 +1588,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8082,
+      "service_port": "8082",
       "releases": {
         "2.63.23-r3": {
           "changelog": "轻量级网页文件管理器，支持文件上传、下载和分享",
@@ -1627,7 +1627,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 9000,
+      "service_port": "9000",
       "releases": {
         "1.5.2-r5": {
           "changelog": "新一代通用型在线文件预览引擎，支持 Office、PDF、OFD、CAD、图片、代码文件等格式。",
@@ -1666,7 +1666,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5801,
+      "service_port": "5801",
       "releases": {
         "26.09.1": {
           "changelog": "Firefox 浏览器的 Docker 容器版本，通过网页即可远程访问，内置中文字体支持。",
@@ -1705,7 +1705,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8777,
+      "service_port": "8777",
       "releases": {
         "2.16.8": {
           "changelog": "飞牛系统监控面板：CPU/内存/磁盘/网络/温度/风扇/Docker 一站监控，含流量与功耗统计、硬盘休眠保护与阵列卡物理盘健康（官方 fpk 直通）",
@@ -1744,7 +1744,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8011,
+      "service_port": "8011",
       "releases": {
         "1.9.8": {
           "changelog": "fnOS第三方应用中心，支持一键安装、更新和卸载来自conversun/fnos-apps的所有应用。",
@@ -1783,7 +1783,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 4223,
+      "service_port": "4223",
       "releases": {
         "0.7.2": {
           "changelog": "为飞牛接入 OIDC 单点登录的认证桥接服务（官方 fpk 直通，需按上游文档配置反向代理后给第三方应用提供 OIDC 认证）",
@@ -1822,7 +1822,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 22350,
+      "service_port": "22350",
       "releases": {
         "1.0.1.224": {
           "changelog": "飞牛影视网页端增强（官方 fpk 直通）：沉浸式海报墙/轮播、B 站弹幕+自建源、豆瓣/Bangumi/Trakt 同步、跳过片头/播放记忆、TMDB 信息卡；经反向代理注入、不改动飞牛系统文件，卸载即还原",
@@ -1861,7 +1861,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3005,
+      "service_port": "3005",
       "releases": {
         "16.0.5": {
           "changelog": "社区驱动的轻量级 Git 代码托管服务器，Gitea 分支。",
@@ -1900,7 +1900,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8180,
+      "service_port": "8180",
       "releases": {
         "1.30.1": {
           "changelog": "自托管 RSS 阅读器，支持 Google Reader API 和第三方客户端",
@@ -1939,7 +1939,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8971,
+      "service_port": "8971",
       "releases": {
         "0.18.0": {
           "changelog": "AI 视频监控系统，支持实时物体检测和录像管理。",
@@ -1978,7 +1978,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 7000,
+      "service_port": "7000",
       "releases": {
         "0.71.0": {
           "changelog": "高性能内网穿透服务端（frps）：配合 frpc 客户端将 NAS 或内网服务暴露到公网服务器，内置 Web 管理面板（7500 端口，初始密码见应用日志）",
@@ -2017,7 +2017,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3033,
+      "service_port": "3033",
       "releases": {
         "28.1.0": {
           "changelog": "轻量级 Git 代码托管服务器，提供代码仓库、Issue 追踪和 CI/CD。",
@@ -2056,7 +2056,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9678,
+      "service_port": "9678",
       "releases": {
         "0.8.6": {
           "changelog": "高颜值自托管仪表盘：一页聚合 RSS、书签、站点监控、Docker 状态、市场行情等数十种小组件",
@@ -2095,7 +2095,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 61208,
+      "service_port": "61208",
       "releases": {
         "latest-full-r4": {
           "changelog": "系统监控工具，提供 Web UI 的实时系统资源监控。",
@@ -2134,7 +2134,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9999,
+      "service_port": "9999",
       "releases": {
         "1.9.3-r6": {
           "changelog": "Gopeed是一款支持HTTP、BitTorrent、Magnet等协议的高速下载器。",
@@ -2173,7 +2173,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8070,
+      "service_port": "8070",
       "releases": {
         "3.1.1": {
           "changelog": "Gotify 是一个简单的自托管推送通知服务器，支持通过 REST API 发送和接收消息。",
@@ -2212,7 +2212,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3010,
+      "service_port": "3010",
       "releases": {
         "13.2.3": {
           "changelog": "可视化监控仪表盘，支持 Prometheus、Loki 等多种数据源。",
@@ -2251,7 +2251,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5800,
+      "service_port": "5800",
       "releases": {
         "26.09.1": {
           "changelog": "开源视频转码工具，支持 GPU 硬件加速，Web 图形界面操作。",
@@ -2290,7 +2290,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8480,
+      "service_port": "8480",
       "releases": {
         "0.29.4": {
           "changelog": "Tailscale 自托管控制服务器，构建私有 VPN 网络。",
@@ -2329,7 +2329,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 7575,
+      "service_port": "7575",
       "releases": {
         "2.3.0": {
           "changelog": "可视化应用仪表盘，深度集成 *arr 套件状态展示",
@@ -2368,7 +2368,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8123,
+      "service_port": "8123",
       "releases": {
         "2026.10.0": {
           "changelog": "开源智能家居中枢平台，支持数千种智能设备的自动化控制。",
@@ -2407,7 +2407,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 7745,
+      "service_port": "7745",
       "releases": {
         "0.26.2": {
           "changelog": "家庭物品资产管理与库存系统：登记家当、拍照归档、位置/标签/保修期管理，搬家与理赔好帮手",
@@ -2446,7 +2446,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3003,
+      "service_port": "3003",
       "releases": {
         "2.4.0": {
           "changelog": "高度可定制的应用仪表盘，支持 100+ 服务集成",
@@ -2485,7 +2485,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 2283,
+      "service_port": "2283",
       "releases": {
         "release-2026.10.09": {
           "changelog": "自托管照片和视频备份方案,支持人脸识别和智能搜索。",
@@ -2524,7 +2524,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8280,
+      "service_port": "8280",
       "releases": {
         "2024.10.22-7ca5933-r5": {
           "changelog": "开发者工具箱，提供 JSON/YAML 转换、编码解码等常用工具。",
@@ -2563,7 +2563,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9117,
+      "service_port": "9117",
       "releases": {
         "0.24.2810": {
           "changelog": "Torrent 索引器代理，为 Sonarr/Radarr 等工具提供统一的搜索接口。",
@@ -2602,7 +2602,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8097,
+      "service_port": "8097",
       "releases": {
         "12.2": {
           "changelog": "Jellyfin 是一款免费开源的媒体系统，让您管理和播放您的媒体内容。支持电影、电视剧、音乐等多种媒体类型的管理和流式传输。",
@@ -2641,7 +2641,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5055,
+      "service_port": "5055",
       "releases": {
         "2.7.3-r4": {
           "changelog": "媒体请求管理工具，家庭成员可请求想看的影视并自动下载",
@@ -2680,7 +2680,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3004,
+      "service_port": "3004",
       "releases": {
         "1.1.12": {
           "changelog": "Jellyfin 媒体服务器的使用统计和监控面板。",
@@ -2719,7 +2719,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5000,
+      "service_port": "5000",
       "releases": {
         "0.9.1": {
           "changelog": "开源的漫画、轻小说和电子书阅读服务器",
@@ -2758,7 +2758,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8500,
+      "service_port": "8500",
       "releases": {
         "1.68.10-r4": {
           "changelog": "KodBox (可道云) 是一个开源的私有云存储和文件管理平台，支持在线文档编辑和多人协作。",
@@ -2797,7 +2797,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8060,
+      "service_port": "8060",
       "releases": {
         "9.15.0": {
           "changelog": "个人音乐流媒体服务器,支持在线播放本地音乐库。默认账号 admin@koel.dev / KoelIsCool",
@@ -2836,7 +2836,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 25774,
+      "service_port": "25774",
       "releases": {
         "1.5.1": {
           "changelog": "轻量级自托管服务器监控工具，通过 Web 界面查看服务器状态，配合轻量 agent 采集数据。",
@@ -2875,7 +2875,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 25600,
+      "service_port": "25600",
       "releases": {
         "1.28.1": {
           "changelog": "漫画和电子书管理服务器，支持 CBZ/CBR/PDF/EPUB 格式在线阅读。",
@@ -2914,7 +2914,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8930,
+      "service_port": "8930",
       "releases": {
         "2.4.6": {
           "changelog": "开源电子书阅读器，支持 EPUB、PDF、Mobi 等格式，跨平台同步阅读进度。",
@@ -2953,7 +2953,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3000,
+      "service_port": "3000",
       "releases": {
         "0.9.81-r4": {
           "changelog": "自托管的漫画/存档管理服务器，支持自动元数据刮削与标签分类。",
@@ -2992,7 +2992,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3085,
+      "service_port": "3085",
       "releases": {
         "0.8.8": {
           "changelog": "AI 聊天界面，支持 OpenAI、Anthropic 等多种 AI 模型。",
@@ -3031,7 +3031,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8686,
+      "service_port": "8686",
       "releases": {
         "3.1.0.4875-r6": {
           "changelog": "音乐自动化管理工具，自动搜索和下载音乐专辑",
@@ -3070,7 +3070,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3050,
+      "service_port": "3050",
       "releases": {
         "2.16.3": {
           "changelog": "协作式书签管理器，支持网页存档和标签分类",
@@ -3109,7 +3109,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 0,
+      "service_port": "",
       "releases": {
         "0.5.7": {
           "changelog": "多网盘聚合挂载与浏览（官方 fpk 直通，飞牛桌面访问）",
@@ -3148,7 +3148,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8185,
+      "service_port": "8185",
       "releases": {
         "4.11.0": {
           "changelog": "本地 AI 模型推理服务器，兼容 OpenAI API 接口。",
@@ -3187,7 +3187,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3100,
+      "service_port": "3100",
       "releases": {
         "3.7.8": {
           "changelog": "轻量级日志聚合系统，Grafana 生态的日志解决方案。",
@@ -3226,7 +3226,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 16601,
+      "service_port": "16601",
       "releases": {
         "2.27.2-r6": {
           "changelog": "网络工具箱，集成 DDNS、反向代理、HTTPS 证书、端口转发等功能",
@@ -3265,7 +3265,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8080,
+      "service_port": "8080",
       "releases": {
         "0.2.8": {
           "changelog": "律巢音乐：自托管多端音乐服务，Web/Windows/Android 共享曲库、收藏、歌单与播放队列，支持歌词偏移、离线下载与听歌统计",
@@ -3304,7 +3304,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5008,
+      "service_port": "5008",
       "releases": {
         "2609.1": {
           "changelog": "IMAP/Microsoft 365 邮件归档、搜索与导出系统",
@@ -3343,7 +3343,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8065,
+      "service_port": "8065",
       "releases": {
         "11.11.1": {
           "changelog": "企业级即时通讯平台，Slack 的开源替代方案。",
@@ -3382,7 +3382,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8083,
+      "service_port": "8083",
       "releases": {
         "2.10.6-lts": {
           "changelog": "企业级智能体平台，支持 RAG 知识库、工作流引擎和多模型对话。",
@@ -3421,7 +3421,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 9925,
+      "service_port": "9925",
       "releases": {
         "3.28.0": {
           "changelog": "自托管食谱管理工具，支持网页导入和家庭共享",
@@ -3460,7 +3460,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8081,
+      "service_port": "8081",
       "releases": {
         "1.0.26": {
           "changelog": "电视剧自动化下载管理工具，支持自动搜索和下载新剧集。",
@@ -3499,7 +3499,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3006,
+      "service_port": "3006",
       "releases": {
         "1.0.0-r5": {
           "changelog": "Web 音乐搜索与下载服务，基于 lx-music 核心，支持多平台音源聚合搜索、服务器端下载和歌曲管理。",
@@ -3538,7 +3538,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5230,
+      "service_port": "5230",
       "releases": {
         "0.31.0": {
           "changelog": "轻量级自托管笔记服务,支持Markdown,适合个人知识管理和日常记录。",
@@ -3577,7 +3577,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3107,
+      "service_port": "3107",
       "releases": {
         "1.0.0": {
           "changelog": "轻量级个人笔记知识库：Markdown 笔记、分类管理、双向链接、知识图谱；内置 P2P 隧道，手机 App 无需公网 IP 直连 NAS 笔记服务，数据本地存储（官方 fpk 直通）",
@@ -3616,7 +3616,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8091,
+      "service_port": "8091",
       "releases": {
         "1.4.0-r4": {
           "changelog": "JAV 元数据刮削服务器，搭配 Emby/Jellyfin 使用，内置 20+ 数据源",
@@ -3655,7 +3655,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8281,
+      "service_port": "8281",
       "releases": {
         "2026.09.29": {
           "changelog": "网页版 yt-dlp 下载器：粘贴链接即下，支持 YouTube/B 站等上千站点、多任务队列与音视频格式选择，文件自动落盘到 NAS",
@@ -3694,7 +3694,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8300,
+      "service_port": "8300",
       "releases": {
         "0.6.1": {
           "changelog": "将小米小爱音箱转换为 DLNA 与 AirPlay 接收器，提供 Web 管理后台",
@@ -3733,7 +3733,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9097,
+      "service_port": "9097",
       "releases": {
         "1.19.32": {
           "changelog": "Clash.Meta 多协议代理 + MetaCubeXD 面板 (管理:9097 代理:7890)",
@@ -3772,7 +3772,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8190,
+      "service_port": "8190",
       "releases": {
         "2.3.3-r5": {
           "changelog": "极简 RSS 阅读器，Go 编写，性能优异",
@@ -3811,7 +3811,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5354,
+      "service_port": "5354",
       "releases": {
         "5.3.4-r5": {
           "changelog": "DNS 分流工具，国内域名走国内 DNS、国外走加密 DNS",
@@ -3850,7 +3850,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3000,
+      "service_port": "3000",
       "releases": {
         "3.1.2-1": {
           "changelog": "影视自动化管理工具,支持自动订阅、下载、整理和通知。首次启动通过 Web UI 配置。",
@@ -3889,7 +3889,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 7777,
+      "service_port": "7777",
       "releases": {
         "0.6.5": {
           "changelog": "MosDNS + Mihomo DNS 分流与透明代理管理面板",
@@ -3928,7 +3928,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5678,
+      "service_port": "5678",
       "releases": {
         "2.42.6": {
           "changelog": "可视化工作流自动化工具，支持连接数百种服务和 API。",
@@ -3967,7 +3967,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 18780,
+      "service_port": "18780",
       "releases": {
         "0.3.5": {
           "changelog": "超轻量 AI 智能体框架，99% 更少代码量，支持多模型多通道，Web 管理面板，默认密码 admin/nanobot",
@@ -4006,7 +4006,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 4533,
+      "service_port": "4533",
       "releases": {
         "0.64.2": {
           "changelog": "开源的个人音乐流媒体服务器,兼容 Subsonic/Airsonic API,支持多用户和移动端应用。",
@@ -4045,7 +4045,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8820,
+      "service_port": "8820",
       "releases": {
         "0.80.0": {
           "changelog": "零信任 VPN 管理平台，提供简单的私有网络组建。",
@@ -4084,7 +4084,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 19999,
+      "service_port": "19999",
       "releases": {
         "2.12.1": {
           "changelog": "实时系统监控面板，每秒采集 CPU/内存/磁盘/网络等指标。",
@@ -4123,7 +4123,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3007,
+      "service_port": "3007",
       "releases": {
         "latest-2026.10.09": {
           "changelog": "基于大语言模型的 draw.io 图表生成与编辑工具",
@@ -4162,7 +4162,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8082,
+      "service_port": "8082",
       "releases": {
         "35.0.1": {
           "changelog": "开源私有云存储平台,支持文件同步、在线文档协作和日历联系人管理。",
@@ -4201,7 +4201,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8888,
+      "service_port": "8888",
       "releases": {
         "1.30.5": {
           "changelog": "Nginx是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP代理服务器。",
@@ -4240,7 +4240,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 81,
+      "service_port": "81",
       "releases": {
         "2.16.0": {
           "changelog": "图形化反向代理管理工具，支持 SSL 证书自动申请和续期。",
@@ -4279,7 +4279,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8889,
+      "service_port": "8889",
       "releases": {
         "2.8.4": {
           "changelog": "Nginx可视化管理面板，内置Nginx引擎，支持在线编辑配置、一键Reload、SSL证书管理。",
@@ -4318,7 +4318,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 0,
+      "service_port": "",
       "releases": {
         "0.3.9": {
           "changelog": "fnOS 桌面版 Nginx 管理器（官方 fpk 直通，standard 标准版）：可视化管理 HTTP/HTTPS 反代、TCP/UDP 转发、SSL 证书与访问统计；如需监听 1024 以下低端口请改装上游 full-ports 变体",
@@ -4357,7 +4357,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 0,
+      "service_port": "",
       "releases": {
         "2.6.0": {
           "changelog": "图片素材检索与浏览（官方 fpk 直通）：数十万级图库流畅浏览、RAW/HEIC 等 39+ 相机格式、主题色筛选与视频封面，经飞牛桌面网关访问；上游仅发布 x86 包",
@@ -4396,7 +4396,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 1880,
+      "service_port": "1880",
       "releases": {
         "5.0.8": {
           "changelog": "可视化流程编排工具，支持 IoT 和智能家居自动化。",
@@ -4435,7 +4435,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 2586,
+      "service_port": "2586",
       "releases": {
         "2.29.0": {
           "changelog": "自托管的推送通知服务器，支持 HTTP 接口发送通知到手机和桌面。",
@@ -4474,7 +4474,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 0,
+      "service_port": "",
       "releases": {
         "1.20.1": {
           "changelog": "NVIDIA GPU 驱动与容器工具包，支持 Docker GPU 直通、硬件转码与飞牛相册 AI 加速。直接使用飞牛系统自带的 NVIDIA 内核模块，不编译内核模块，并自动安装版本匹配的用户态组件，因此飞牛系统更新后 GPU 不会掉。",
@@ -4513,7 +4513,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8080,
+      "service_port": "8080",
       "releases": {
         "1.13.7-r3": {
           "changelog": "基于 Docker 的 Obsidian 个人知识库",
@@ -4552,7 +4552,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 11434,
+      "service_port": "11434",
       "releases": {
         "0.40.2": {
           "changelog": "本地大语言模型运行引擎，支持 Llama、Mistral、Gemma 等开源模型。",
@@ -4591,7 +4591,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3579,
+      "service_port": "3579",
       "releases": {
         "4.53.10-r4": {
           "changelog": "媒体请求管理工具，用户可请求添加电影/电视剧到 Plex/Jellyfin。",
@@ -4630,7 +4630,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8080,
+      "service_port": "8080",
       "releases": {
         "0.11.4": {
           "changelog": "AI 对话界面，支持连接 Ollama、OpenAI 等多种大语言模型。",
@@ -4669,7 +4669,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5244,
+      "service_port": "5244",
       "releases": {
         "4.2.6": {
           "changelog": "支持多种存储后端的文件列表/WebDAV 程序（AList 社区分支）",
@@ -4708,7 +4708,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 61767,
+      "service_port": "61767",
       "releases": {
         "0.1.1": {
           "changelog": "飞牛 NAS 专版透明代理与智能分流方案，基于 mihomo + dnsmasq + nftables，提供 TUN 模式、DHCP 服务器、DNS 劫持、每设备策略等功能。原生适配 fnOS 网络环境，开箱即用。",
@@ -4747,7 +4747,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8000,
+      "service_port": "8000",
       "releases": {
         "3.3.0": {
           "changelog": "文档 OCR 扫描与归档管理系统，将纸质文件数字化并智能分类",
@@ -4786,7 +4786,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 9001,
+      "service_port": "9001",
       "releases": {
         "2.18.3": {
           "changelog": "开源设计和原型工具，Figma 的自托管替代方案，支持团队协作",
@@ -4825,7 +4825,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 2342,
+      "service_port": "2342",
       "releases": {
         "261007": {
           "changelog": "AI 驱动的照片管理工具，支持人脸识别和地图浏览",
@@ -4864,7 +4864,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 18800,
+      "service_port": "18800",
       "releases": {
         "0.3.1-r5": {
           "changelog": "超轻量 AI 智能体框架，Go 编写，10MB 内存占用，支持多模型多通道智能自动化",
@@ -4903,7 +4903,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8053,
+      "service_port": "8053",
       "releases": {
         "2026.09.0": {
           "changelog": "全网广告拦截工具，通过 DNS 过滤广告和追踪器。",
@@ -4942,7 +4942,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 32400,
+      "service_port": "32400",
       "releases": {
         "1.43.4.10903": {
           "changelog": "Plex Media Server是一款强大的媒体服务器软件，可以管理和串流您的电影、电视剧、音乐和照片到任何设备。支持硬件转码、离线同步等高级功能。",
@@ -4981,7 +4981,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 1411,
+      "service_port": "1411",
       "releases": {
         "2.18.0": {
           "changelog": "轻量 OIDC 单点登录/Passkey 身份提供方：为 Jellyfin、Immich、Nginx Proxy Manager 等自托管应用提供「指纹/Passkey 免密码」统一登录，无需暴露密码",
@@ -5020,7 +5020,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9090,
+      "service_port": "9090",
       "releases": {
         "3.15.0": {
           "changelog": "时序数据库和监控系统，支持灵活的查询语言和告警规则。",
@@ -5059,7 +5059,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9696,
+      "service_port": "9696",
       "releases": {
         "2.6.5.5623": {
           "changelog": "索引器管理工具，集中管理和同步 Sonarr/Radarr 等应用的索引器",
@@ -5098,7 +5098,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3010,
+      "service_port": "3010",
       "releases": {
         "1.0.0-r1": {
           "changelog": "自托管消息推送服务端：Web 面板管理与在线日志，接口兼容官方 PushMe API；3010 面板/API、3100 MQTT/WebSocket（官方 fpk 直通）",
@@ -5137,7 +5137,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 4100,
+      "service_port": "4100",
       "releases": {
         "26.10": {
           "changelog": "开源云桌面环境,在浏览器中提供完整的桌面体验,支持文件管理和应用生态。",
@@ -5176,7 +5176,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8085,
+      "service_port": "8085",
       "releases": {
         "5.2.4": {
           "changelog": "qBittorrent是一个轻量级BitTorrent客户端，简单易用，功能强大。默认用户名admin，密码adminadmin。",
@@ -5215,7 +5215,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5700,
+      "service_port": "5700",
       "releases": {
         "2.22.0": {
           "changelog": "支持 Python/JavaScript/Shell/TypeScript 的定时任务管理面板",
@@ -5254,7 +5254,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8088,
+      "service_port": "8088",
       "releases": {
         "2.2.1": {
           "changelog": "AgentScope 团队出品的自托管个人 AI 助手，支持钉钉/飞书/Discord/Telegram 等多通道接入、多智能体协作、定时任务、Skills 扩展与本地模型，数据完全保存在本地。",
@@ -5293,7 +5293,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 7878,
+      "service_port": "7878",
       "releases": {
         "6.4.4.10685": {
           "changelog": "电影自动化管理工具，自动搜索、下载和整理电影",
@@ -5332,7 +5332,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 5572,
+      "service_port": "5572",
       "releases": {
         "1.75.1": {
           "changelog": "强大的云存储同步工具，支持 50+ 种存储后端的文件管理和同步。默认用户名admin，密码admin。",
@@ -5371,7 +5371,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3200,
+      "service_port": "3200",
       "releases": {
         "v6.0.1": {
           "changelog": "在线简历制作工具，支持多种模板和实时预览。",
@@ -5410,7 +5410,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8787,
+      "service_port": "8787",
       "releases": {
         "0.4.18.2805-r5": {
           "changelog": "电子书自动化管理工具，自动搜索和下载电子书与有声书",
@@ -5449,7 +5449,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3003,
+      "service_port": "3003",
       "releases": {
         "8.9.0": {
           "changelog": "开源团队协作通讯平台,支持即时消息、音视频通话和文件共享。",
@@ -5488,7 +5488,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 21116,
+      "service_port": "21116",
       "releases": {
         "1.1.16": {
           "changelog": "开源远程桌面 RustDesk 的自建服务端（hbbs 信令 + hbbr 中继），让远程控制流量完全不经过第三方服务器；公钥位于应用数据目录，客户端填入 NAS 地址即可使用",
@@ -5527,7 +5527,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8780,
+      "service_port": "8780",
       "releases": {
         "5.1.3": {
           "changelog": "Usenet 二进制新闻组下载客户端，支持自动解压和后处理。",
@@ -5566,7 +5566,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 7102,
+      "service_port": "7102",
       "releases": {
         "3.1.8-r3": {
           "changelog": "樱花内网穿透客户端，免费端口映射服务。",
@@ -5605,7 +5605,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8002,
+      "service_port": "8002",
       "releases": {
         "13.0.28": {
           "changelog": "开源文件同步与共享平台",
@@ -5644,7 +5644,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5055,
+      "service_port": "5055",
       "releases": {
         "3.5.0": {
           "changelog": "影视媒体请求管理工具，支持 Plex/Jellyfin/Emby，Overseerr 的社区分支。",
@@ -5683,7 +5683,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 6806,
+      "service_port": "6806",
       "releases": {
         "3.8.6": {
           "changelog": "隐私优先的块级笔记与双向链接知识库（内核服务器模式），支持网页端访问、多端数据同步与 S3/WebDAV 备份",
@@ -5722,7 +5722,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 6580,
+      "service_port": "6580",
       "releases": {
         "1.2026.08.05-0921-r2": {
           "changelog": "本地 DNS 加速与优选工具，多 DNS 查询并返回最快结果",
@@ -5761,7 +5761,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8989,
+      "service_port": "8989",
       "releases": {
         "4.0.20.3014": {
           "changelog": "电视剧自动化管理工具，自动搜索、下载和管理剧集",
@@ -5800,7 +5800,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 58091,
+      "service_port": "58091",
       "releases": {
         "2.13.1": {
           "changelog": "自托管音乐服务器，支持本地音乐管理与 Web 播放",
@@ -5839,7 +5839,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 18080,
+      "service_port": "18080",
       "releases": {
         "3.1.0": {
           "changelog": "功能强大的本地 PDF 工具箱，支持合并、拆分、OCR 等操作",
@@ -5878,7 +5878,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3001,
+      "service_port": "3001",
       "releases": {
         "2.42.3": {
           "changelog": "订阅链接管理工具，支持 QX、Loon、Surge、Stash、Egern 和 Shadowrocket 等多种代理客户端的订阅聚合与转换。",
@@ -5917,7 +5917,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5007,
+      "service_port": "5007",
       "releases": {
         "2.16.1": {
           "changelog": "基于观影记录自动向 Seerr/Jellyseerr 请求相似影视内容",
@@ -5956,7 +5956,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3002,
+      "service_port": "3002",
       "releases": {
         "1.8.1-r5": {
           "changelog": "服务器/NAS导航面板，支持多账户和Docker容器管理",
@@ -5995,7 +5995,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 47990,
+      "service_port": "47990",
       "releases": {
         "2026.914.233613": {
           "changelog": "游戏串流服务器，配合 Moonlight 客户端实现远程游戏。",
@@ -6034,7 +6034,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 0,
+      "service_port": "",
       "releases": {
         "1.0.1-r1": {
           "changelog": "在 x86 Surface 设备的 fnOS 上手动编译并安装 Surface Aggregator 电池驱动，支持查看电池与电源状态。",
@@ -6073,7 +6073,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 1991,
+      "service_port": "1991",
       "releases": {
         "1.13.0": {
           "changelog": "开源问卷调查和在线考试系统，支持多种题型、逻辑跳转和数据导出",
@@ -6112,7 +6112,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 4567,
+      "service_port": "4567",
       "releases": {
         "2.4.2366": {
           "changelog": "免费开源的漫画阅读服务器，支持多来源扩展与 Web 阅读界面。",
@@ -6151,7 +6151,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8384,
+      "service_port": "8384",
       "releases": {
         "2.1.6": {
           "changelog": "开源的文件同步工具，支持多设备间安全同步",
@@ -6190,7 +6190,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8088,
+      "service_port": "8088",
       "releases": {
         "1.102.5": {
           "changelog": "Tailscale VPN 客户端，零配置组建安全私有网络，支持远程访问 NAS。",
@@ -6229,7 +6229,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8181,
+      "service_port": "8181",
       "releases": {
         "2.18.2": {
           "changelog": "Plex 使用统计和监控工具，追踪观看历史和服务器性能。",
@@ -6268,7 +6268,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5800,
+      "service_port": "5800",
       "releases": {
         "5.3.4": {
           "changelog": "影视文件元数据管理工具，支持从 TheMovieDB、IMDb 刮削元数据，为 Kodi、Emby、Jellyfin、Plex 创建 NFO 文件，自动重命名和整理。含内置 JRE，通过虚拟显示运行。",
@@ -6307,7 +6307,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 9091,
+      "service_port": "9091",
       "releases": {
         "latest-2026.10.09": {
           "changelog": "Transmission 是一个轻量级的 BitTorrent 客户端，以简洁高效著称，支持 Web 远程管理。",
@@ -6346,7 +6346,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3001,
+      "service_port": "3001",
       "releases": {
         "2.5.5": {
           "changelog": "简洁美观的服务监控工具，支持多种监控类型和告警通知",
@@ -6385,7 +6385,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8880,
+      "service_port": "8880",
       "releases": {
         "1.37.4": {
           "changelog": "轻量级 Bitwarden 兼容密码管理服务器，使用 Rust 编写，支持自托管密码管理。",
@@ -6424,7 +6424,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 8666,
+      "service_port": "8666",
       "releases": {
         "2.21.3-r3": {
           "changelog": "微力同步文件同步工具",
@@ -6463,7 +6463,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 8087,
+      "service_port": "8087",
       "releases": {
         "1.36.3": {
           "changelog": "AI 网络视频录像机，支持摄像头管理、录像与硬件加速转码。",
@@ -6502,7 +6502,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 3456,
+      "service_port": "3456",
       "releases": {
         "2.7.0": {
           "changelog": "开源待办清单与项目看板（列表/看板/甘特/日历多视图），单文件运行、SQLite 存储，配手机 App 与 CalDAV 同步",
@@ -6541,7 +6541,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 1081,
+      "service_port": "1081",
       "releases": {
         "2.5.7-r6": {
           "changelog": "现代化堡垒机 + 自动化运维平台，支持 SSH/RDP/VNC 在线终端、文件管理、批量操作、计划任务、主机监控。",
@@ -6580,7 +6580,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 51821,
+      "service_port": "51821",
       "releases": {
         "15.4.0-r3": {
           "changelog": "WireGuard VPN 管理界面，提供简洁的 Web UI 管理 VPN 连接。",
@@ -6619,7 +6619,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3110,
+      "service_port": "3110",
       "releases": {
         "2.5.277-r4": {
           "changelog": "强大的自托管知识库/Wiki 系统，支持 Markdown 和多种编辑器",
@@ -6658,7 +6658,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 5690,
+      "service_port": "5690",
       "releases": {
         "2026.9.1": {
           "changelog": "Plex/Jellyfin 用户邀请管理工具，简化媒体库共享流程。",
@@ -6697,7 +6697,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 9095,
+      "service_port": "9095",
       "releases": {
         "1.7.71-r6": {
           "changelog": "WolGoWeb 是基于 Golang 的远程唤醒 WebAPI 工具，用于在局域网中通过网页唤醒主机。",
@@ -6736,7 +6736,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": 42617,
+      "service_port": "42617",
       "releases": {
         "0.8.5": {
           "changelog": "轻量级 AI 智能体运行时，Rust 编写，<5MB 内存占用，支持多模型多通道自主智能体工作流",
@@ -6775,7 +6775,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 3008,
+      "service_port": "3008",
       "releases": {
         "0.8.5": {
           "changelog": "ZeroTier 自托管控制器与 ZTNET Web 管理界面，支持可视化管理虚拟局域网。",
@@ -6814,7 +6814,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": true,
-      "service_port": 18790,
+      "service_port": "18790",
       "releases": {
         "0.3.52": {
           "changelog": "ZoneFoundry 自建桥接，连接家中 Sonos 与 ZoneFoundry 云端中继，远程通过语音 / IM / 网页操控 Sonos 音箱。",
