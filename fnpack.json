@@ -65,7 +65,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5006,
       "releases": {
@@ -104,7 +104,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3080,
       "releases": {
@@ -132,7 +132,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/aellus/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -221,7 +221,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 7789,
       "releases": {
@@ -260,7 +260,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8501,
       "releases": {
@@ -299,7 +299,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3552,
       "releases": {
@@ -338,7 +338,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 6800,
       "releases": {
@@ -366,7 +366,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/astrbot/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -377,7 +377,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 6185,
       "releases": {
@@ -416,7 +416,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 13378,
       "releases": {
@@ -455,7 +455,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 7892,
       "releases": {
@@ -494,7 +494,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 6767,
       "releases": {
@@ -561,7 +561,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/bililive-go/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -611,7 +611,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 1111,
       "releases": {
@@ -650,7 +650,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8083,
       "releases": {
@@ -767,7 +767,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5802,
       "releases": {
@@ -806,7 +806,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3310,
       "releases": {
@@ -834,7 +834,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/clash-for-fnos/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -884,7 +884,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 19798,
       "releases": {
@@ -912,7 +912,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/cloudflared/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -923,7 +923,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 14333,
       "releases": {
@@ -1001,7 +1001,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 11987,
       "releases": {
@@ -1029,7 +1029,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/copaw/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1040,7 +1040,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8088,
       "releases": {
@@ -1079,7 +1079,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3923,
       "releases": {
@@ -1107,7 +1107,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/cowagent/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1118,7 +1118,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 9899,
       "releases": {
@@ -1157,7 +1157,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5701,
       "releases": {
@@ -1196,7 +1196,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 9321,
       "releases": {
@@ -1274,7 +1274,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 4001,
       "releases": {
@@ -1313,7 +1313,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8807,
       "releases": {
@@ -1352,7 +1352,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8200,
       "releases": {
@@ -1380,7 +1380,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/easytier/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1419,7 +1419,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/emby/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1458,7 +1458,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ente/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1469,7 +1469,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8510,
       "releases": {
@@ -1625,7 +1625,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 9000,
       "releases": {
@@ -1664,7 +1664,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5801,
       "releases": {
@@ -1809,7 +1809,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/fntv-plus/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1898,7 +1898,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8180,
       "releases": {
@@ -1926,7 +1926,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/frigate/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -1937,7 +1937,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8971,
       "releases": {
@@ -1965,7 +1965,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/frps/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2093,7 +2093,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 61208,
       "releases": {
@@ -2238,7 +2238,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/handbrake/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2249,7 +2249,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5800,
       "releases": {
@@ -2277,7 +2277,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/headscale/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2327,7 +2327,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 7575,
       "releases": {
@@ -2366,7 +2366,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8123,
       "releases": {
@@ -2444,7 +2444,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3003,
       "releases": {
@@ -2472,7 +2472,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/immich/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2483,7 +2483,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 2283,
       "releases": {
@@ -2522,7 +2522,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8280,
       "releases": {
@@ -2589,7 +2589,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/jellyfin/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2628,7 +2628,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/jellyseerr/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2639,7 +2639,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5055,
       "releases": {
@@ -2667,7 +2667,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/jellystat/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2678,7 +2678,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3004,
       "releases": {
@@ -2706,7 +2706,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/kavita/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2717,7 +2717,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5000,
       "releases": {
@@ -2756,7 +2756,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8500,
       "releases": {
@@ -2784,7 +2784,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/koel/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2795,7 +2795,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8060,
       "releases": {
@@ -2834,7 +2834,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 25774,
       "releases": {
@@ -2862,7 +2862,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/komga/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2873,7 +2873,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 25600,
       "releases": {
@@ -2901,7 +2901,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/koodo-reader/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2912,7 +2912,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8930,
       "releases": {
@@ -2951,7 +2951,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3000,
       "releases": {
@@ -2979,7 +2979,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/librechat/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -2990,7 +2990,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3085,
       "releases": {
@@ -3068,7 +3068,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3050,
       "releases": {
@@ -3135,7 +3135,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/localai/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3146,7 +3146,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8185,
       "releases": {
@@ -3252,7 +3252,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/lyranest/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3263,7 +3263,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8080,
       "releases": {
@@ -3302,7 +3302,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5008,
       "releases": {
@@ -3341,7 +3341,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8065,
       "releases": {
@@ -3369,7 +3369,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/maxkb/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3380,7 +3380,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8083,
       "releases": {
@@ -3419,7 +3419,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 9925,
       "releases": {
@@ -3458,7 +3458,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8081,
       "releases": {
@@ -3486,7 +3486,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/melody-hub/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3497,7 +3497,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3006,
       "releases": {
@@ -3603,7 +3603,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/metatube/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3653,7 +3653,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8281,
       "releases": {
@@ -3681,7 +3681,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/miair-next/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3692,7 +3692,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8300,
       "releases": {
@@ -3720,7 +3720,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/mihomo/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3770,7 +3770,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8190,
       "releases": {
@@ -3798,7 +3798,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/mosdns/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3848,7 +3848,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3000,
       "releases": {
@@ -3876,7 +3876,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/msf/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3926,7 +3926,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5678,
       "releases": {
@@ -3954,7 +3954,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/nanobot/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -3965,7 +3965,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 18780,
       "releases": {
@@ -3993,7 +3993,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/navidrome/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4032,7 +4032,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/netbird/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4043,7 +4043,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8820,
       "releases": {
@@ -4082,7 +4082,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 19999,
       "releases": {
@@ -4110,7 +4110,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/next-ai-draw-io/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4121,7 +4121,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3007,
       "releases": {
@@ -4160,7 +4160,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8082,
       "releases": {
@@ -4238,7 +4238,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 81,
       "releases": {
@@ -4305,7 +4305,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/nginx-web/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4394,7 +4394,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 1880,
       "releases": {
@@ -4511,7 +4511,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8080,
       "releases": {
@@ -4539,7 +4539,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ollama/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4550,7 +4550,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 11434,
       "releases": {
@@ -4578,7 +4578,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/ombi/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4589,7 +4589,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3579,
       "releases": {
@@ -4617,7 +4617,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/open-webui/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4628,7 +4628,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8080,
       "releases": {
@@ -4695,7 +4695,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/opensurge/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4706,7 +4706,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 61767,
       "releases": {
@@ -4745,7 +4745,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8000,
       "releases": {
@@ -4784,7 +4784,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 9001,
       "releases": {
@@ -4812,7 +4812,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/photoprism/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4823,7 +4823,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 2342,
       "releases": {
@@ -4851,7 +4851,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/picoclaw/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4890,7 +4890,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/pihole/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -4901,7 +4901,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8053,
       "releases": {
@@ -4929,7 +4929,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/plex/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5135,7 +5135,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 4100,
       "releases": {
@@ -5213,7 +5213,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5700,
       "releases": {
@@ -5252,7 +5252,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8088,
       "releases": {
@@ -5369,7 +5369,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3200,
       "releases": {
@@ -5447,7 +5447,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3003,
       "releases": {
@@ -5475,7 +5475,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/rustdesk-server/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5525,7 +5525,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8780,
       "releases": {
@@ -5553,7 +5553,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/sakurafrp/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5564,7 +5564,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 7102,
       "releases": {
@@ -5603,7 +5603,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8002,
       "releases": {
@@ -5631,7 +5631,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/seerr/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5642,7 +5642,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5055,
       "releases": {
@@ -5681,7 +5681,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 6806,
       "releases": {
@@ -5709,7 +5709,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/smartdns/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5787,7 +5787,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/songloft/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5798,7 +5798,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 58091,
       "releases": {
@@ -5837,7 +5837,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 18080,
       "releases": {
@@ -5876,7 +5876,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3001,
       "releases": {
@@ -5904,7 +5904,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/suggestarr/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5915,7 +5915,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5007,
       "releases": {
@@ -5982,7 +5982,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/sunshine/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -5993,7 +5993,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 47990,
       "releases": {
@@ -6071,7 +6071,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 1991,
       "releases": {
@@ -6099,7 +6099,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/suwayomi/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6110,7 +6110,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 4567,
       "releases": {
@@ -6177,7 +6177,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/tailscale/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6188,7 +6188,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8088,
       "releases": {
@@ -6216,7 +6216,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/tautulli/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6227,7 +6227,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8181,
       "releases": {
@@ -6255,7 +6255,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/tinymediamanager/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6266,7 +6266,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5800,
       "releases": {
@@ -6305,7 +6305,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 9091,
       "releases": {
@@ -6344,7 +6344,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3001,
       "releases": {
@@ -6383,7 +6383,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8880,
       "releases": {
@@ -6450,7 +6450,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/vibenvr/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6461,7 +6461,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 8087,
       "releases": {
@@ -6539,7 +6539,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 1081,
       "releases": {
@@ -6567,7 +6567,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/wg-easy/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6578,7 +6578,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 51821,
       "releases": {
@@ -6617,7 +6617,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3110,
       "releases": {
@@ -6645,7 +6645,7 @@
         "arm"
       ],
       "categories": [
-        "影音"
+        "影音娱乐"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/wizarr/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6656,7 +6656,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 5690,
       "releases": {
@@ -6723,7 +6723,7 @@
         "arm"
       ],
       "categories": [
-        "系统工具"
+        "AI赋能"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/zeroclaw/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6762,7 +6762,7 @@
         "arm"
       ],
       "categories": [
-        "网络"
+        "智能智控"
       ],
       "icon_url": "https://raw.githubusercontent.com/conversun/fnos-apps/main/apps/zerotier/fnos/ICON_256.PNG",
       "preview_urls": [],
@@ -6773,7 +6773,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 3008,
       "releases": {
@@ -6812,7 +6812,7 @@
       "distributor": "conversun",
       "distributor_url": "https://github.com/conversun/fnos-apps",
       "run_as": "package",
-      "install_type": "docker",
+      "install_type": "",
       "is_docker": true,
       "service_port": 18790,
       "releases": {
